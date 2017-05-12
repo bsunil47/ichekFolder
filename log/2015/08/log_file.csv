@@ -1,0 +1,5 @@
+,update_offer,merchant,"2015-02-16 19:41:59","{""response"":false,""info"":{""merchant"":[]},""error"":""Merchant dont exist""}"
+,update_offer,merchant,"2015-02-16 19:58:06","{""response"":false,""info"":{""merchant"":[]},""error"":""Merchant dont exist""}"
+,update_offer,merchant,"2015-02-16 20:06:01","{""response"":false,""info"":{""merchant"":[]},""error"":""Merchant dont exist""}"
+,merchant,update_offer,"2015-02-16 20:09:18","{""info"":{""response"":true,""message"":""Offer updated successfully""}}"
+,merchant,update_offer,"2015-02-16 20:10:51","{""info"":{""response"":true,""message"":""Offer updated successfully""}}"

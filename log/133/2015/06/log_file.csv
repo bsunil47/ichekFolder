@@ -1,0 +1,5 @@
+133,customer,savedoffers,"2015-02-05 05:40:53","{""info"":[],""error"":""No Saved offers""}"
+133,customer,view,"2015-02-05 05:49:22","{""info"":{""user_customer"":[{""firstname"":""David"",""lastname"":""Brown"",""created_on"":""2015-02-05 05:40:18"",""friend_count_t"":""0"",""friend_count_f"":""0"",""saveoffercount"":""0"",""redeemedcount"":""0"",""business_name"":null,""first_merchant"":null,""location"":""Cleveland"",""phone"":null,""mobile"":null,""email"":""db@me.com"",""customer_img_url1"":""0"",""points"":""100""}]}}"
+133,customer,reviewslist,"2015-02-05 05:35:49","{""error"":""there is no review posted by you""}"
+133,customer,saveoffer,"2015-02-05 11:45:13","{""info"":""Offer saved Sucessfully""}"
+133,customer,savedoffers,"2015-02-05 11:45:16","{""info"":[{""offer_id"":""121"",""business_name"":""John Deere"",""address"":""Line 1"",""cashback"":""15"",""qty_available"":""50"",""qty_perperson"":""1"",""id"":""121"",""saved_offer_id"":""96"",""display_name"":""John Deere"",""redemeed_count"":""0""}]}"

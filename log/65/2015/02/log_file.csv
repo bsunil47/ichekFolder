@@ -1,0 +1,5 @@
+65,merchant,get_offers,"2015-01-10 02:49:17","{""info"":{""message"":""No offers found""},""response"":false}"
+65,merchant,get_balance,"2015-01-10 02:49:20","{""info"":{""response"":true,""paypal_balance"":null}}"
+65,merchant,add_offer,"2015-01-10 02:51:21","{""info"":{""response"":true,""offer_status"":1,""message"":""Offer added successfully""}}"
+65,merchant,get_offers,"2015-01-10 02:51:27","{""info"":[{""id"":""15"",""day"":""10"",""monthyear"":""Jan 15"",""expirydate"":""2015-01-12 00:00:00"",""info"":""$99.99 Off, Good Oppurtunity to grab the offer. Limited Period, Grab it Soon.""}],""response"":true}"
+65,offerdetails,merchant,"2015-01-10 02:51:31","{""response"":false,""info"":{""merchant"":[]},""error"":""Merchant dont exist""}"

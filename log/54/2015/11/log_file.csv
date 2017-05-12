@@ -1,0 +1,5 @@
+54,customer,view,"2015-03-10 12:18:53","{""info"":{""user_customer"":[{""firstname"":""customer"",""lastname"":""ichek"",""created_on"":""2015-03-10 12:18:53"",""saveoffercount"":""0"",""redeemedcount"":""0"",""business_name"":null,""first_merchant"":null,""location"":""San Francisco"",""phone"":null,""mobile"":null,""email"":""customer1@gmail.com"",""customer_img_url1"":""0"",""points"":""0"",""cash"":""0""}],""user_status"":""New"",""friends_count"":""0"",""graph_values"":[]}}"
+54,customer,friendslist,"2015-03-10 12:18:53","{""error"":""No Friends""}"
+54,customer,friendslist,"2015-03-10 12:18:59","{""error"":""No Friends""}"
+54,customer,friendslist,"2015-03-10 12:19:05","{""error"":""No Friends""}"
+54,customer,friendslist,"2015-03-10 12:19:34","{""error"":""No Friends""}"

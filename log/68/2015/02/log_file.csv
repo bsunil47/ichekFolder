@@ -1,0 +1,5 @@
+68,customer,savedoffers,"2015-01-11 09:10:01","{""error"":""No saved offers""}"
+68,customer,savedoffers,"2015-01-11 09:11:00","{""error"":""No saved offers""}"
+68,customer,saveoffer,"2015-01-11 09:12:56","{""info"":""Offer saved Sucessfully""}"
+68,customer,savedoffers,"2015-01-11 09:13:11","{""info"":[{""business_name"":""Bharath Raj"",""address"":null,""cashback"":""100"",""qty_available"":""75"",""qty_perperson"":""100"",""id"":""3"",""saved_offer_id"":""5"",""remaining"":99}]}"
+68,customer,savedoffers,"2015-01-11 09:13:11","{""info"":[{""business_name"":""Bharath Raj"",""address"":null,""cashback"":""100"",""qty_available"":""75"",""qty_perperson"":""100"",""id"":""3"",""saved_offer_id"":""5"",""remaining"":99}]}"

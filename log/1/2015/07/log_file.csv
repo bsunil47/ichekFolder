@@ -1,0 +1,2 @@
+1,merchant,add_offer,"2015-02-11 17:09:15","{""error"":{""category"":""category should not be empty"",""balance_required"":""balance_required should not be empty""}}"
+1,merchant,add_offer,"2015-02-11 17:09:49","{""info"":{""response"":true,""offer_status"":1,""message"":""Offer added successfully""}}"

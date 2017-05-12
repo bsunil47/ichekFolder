@@ -1,0 +1,3 @@
+71,merchant,get_offers,"2015-01-11 09:27:55","{""info"":{""message"":""No offers found""},""response"":false}"
+71,merchant,get_balance,"2015-01-11 09:27:58","{""info"":{""response"":true,""paypal_balance"":""0""}}"
+71,merchant,add_offer,"2015-01-11 09:28:32","{""info"":{""response"":true,""offer_status"":0,""message"":""Offer added successfully""}}"

@@ -1,0 +1,5 @@
+109,customer,savedoffers,"2015-02-02 13:18:42","{""info"":[],""error"":""No Saved offers""}"
+109,customer,saveoffer,"2015-02-02 13:19:26","{""info"":""Offer saved Sucessfully""}"
+109,customer,savedoffers,"2015-02-02 13:19:27","{""info"":[{""offer_id"":""29"",""business_name"":""Sai Ram Infotech"",""address"":""Chintal"",""cashback"":""560"",""qty_available"":""100"",""qty_perperson"":""1"",""id"":""29"",""saved_offer_id"":""88"",""display_name"":""SR Infotech"",""redemeed_count"":""0""}]}"
+109,customer,reviewslist,"2015-02-05 18:55:26","{""info"":{""reviews"":[{""review_id"":""59"",""day"":""2"",""monthyear"":""Feb 15"",""review"":""Good"",""cashback"":""560"",""productname"":""Bike"",""terms"":""First  100 customers"",""business_name"":""Omulus Infotech"",""display_name"":""Omulus"",""customer_name"":""""}]}}"
+109,customer,reviewslist,"2015-02-05 18:59:26","{""info"":{""reviews"":[{""review_id"":""59"",""day"":""2"",""monthyear"":""Feb 15"",""review"":""Good"",""cashback"":""560"",""productname"":""Bike"",""terms"":""First  100 customers"",""business_name"":""Omulus Infotech"",""display_name"":""Omulus"",""customer_name"":""""}]}}"

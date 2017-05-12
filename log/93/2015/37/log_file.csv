@@ -1,0 +1,8 @@
+93,customer,view,"2015-09-08 11:34:22","{""info"":{""user_customer"":[{""firstname"":""Customer"",""lastname"":""iChekTwo"",""created_on"":""2015-09-02 13:02:51"",""saveoffercount"":""0"",""redeemedcount"":""0"",""business_name"":null,""first_merchant"":null,""location"":""Hyd"",""address"":null,""phone"":null,""mobile"":null,""email"":""custichek1@ichek.com"",""customer_img_url1"":""0"",""points"":""0"",""cash"":""0""}],""user_status"":""New"",""friends_count"":""0"",""graph_values"":[]}}"
+93,customer,friendslist,"2015-09-08 11:34:22","{""error"":""You have no friends to display""}"
+93,customer,friendslist,"2015-09-08 11:34:27","{""error"":""You have no friends to display""}"
+93,customer,invitefriend,"2015-09-08
+11:35:10","{""info"":""friend request sent sucessfully""}"
+93,customer,friendslist,"2015-09-08 11:35:12","{""error"":""You have no friends to display""}"
+93,customer,view,"2015-09-08 11:35:14","{""info"":{""user_customer"":[{""firstname"":""Customer"",""lastname"":""iChekTwo"",""created_on"":""2015-09-08 11:35:10"",""saveoffercount"":""0"",""redeemedcount"":""0"",""business_name"":null,""first_merchant"":null,""location"":""Hyd"",""address"":null,""phone"":null,""mobile"":null,""email"":""custichek1@ichek.com"",""customer_img_url1"":""0"",""points"":""25"",""cash"":""0""}],""user_status"":""New"",""friends_count"":""1"",""graph_values"":[]}}"
+93,customer,friendslist,"2015-09-08 11:35:14","{""info"":{""follow_list"":[{""facebook_id"":""0"",""firstname"":""Cena"",""lastname"":""John"",""id"":""103"",""user_type"":""5"",""img"":""asset.JPG"",""from_user_id"":""93"",""friend_link_id"":""80"",""messagelink_id"":""0""}]}}"

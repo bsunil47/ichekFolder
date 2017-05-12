@@ -1,0 +1,5 @@
+70,merchant,get_offers,"2015-01-11 09:41:32","{""info"":{""message"":""No offers found""},""response"":false}"
+70,merchant,get_balance,"2015-01-11 09:41:35","{""info"":{""response"":true,""paypal_balance"":""0""}}"
+70,merchant,add_offer,"2015-01-11 09:42:12","{""info"":{""response"":true,""offer_status"":0,""message"":""Offer added successfully""}}"
+70,merchant,get_balance,"2015-01-11 09:42:22","{""info"":{""response"":true,""paypal_balance"":""0""}}"
+70,merchant,get_offers,"2015-01-11 09:42:22","{""info"":[{""id"":""24"",""day"":""11"",""monthyear"":""Jan 15"",""expirydate"":""2015-01-16 00:00:00"",""info"":""$677 Off, for all""}],""response"":true}"

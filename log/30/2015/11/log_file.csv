@@ -1,0 +1,2 @@
+30,customer,view,"2015-03-09 19:14:24","{""info"":{""user_customer"":[{""firstname"":""Ml"",""lastname"":""Mk"",""created_on"":""2015-02-23 21:06:17"",""saveoffercount"":""1"",""redeemedcount"":""1"",""business_name"":""MR"",""first_merchant"":""15"",""location"":""Sample"",""phone"":null,""mobile"":null,""email"":""mk@mk.com"",""customer_img_url1"":""0"",""points"":""145"",""cash"":""2""}],""user_status"":""New"",""friends_count"":""0"",""graph_values"":[{""month"":""2"",""amount"":""0""}]}}"
+30,customer,friendslist,"2015-03-09 19:14:24","{""error"":""No Friends""}"
